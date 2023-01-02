@@ -1,13 +1,37 @@
-# Namaste React Live Course
-## from Zero to Hero in 8 weeks
-- Course Start Date: 24th December 2022
-- Duration: 2 months
-- Classes Schedule: Saturday & Sunday
-- Class timings: from 11 AM IST
-- Class duration : ~2 hours core teaching + 1 hour Assignment Discussion
-# About the course
-The mission of this course is to take you from Zero to Hero in React. During this 2-month journey, you will learn everything in live classes and then implement it by building projects. You’ll learn how to start with React and build up to dynamic user interfaces. You’ll work with React-specific concepts like JSX, components, state, props, hooks, and more. Take this course to gain an edge as an industry ready web developer.
-
-The curriculum is designed with the principle of `learn by building`, so there will be a lot of Assignments/Projects you will work on. After this Bootcamp, you will be able to develop fast and scalable react frontend web applications from scratch.
- 
-
+# Chapter 02 - Assignment - Igniting our App
+###### Please Note: Write the answers and code on your own while finishing your assignments. Try to put down your thoughts into words by yourself in your own words. (This will help you develop muscle memory and you will remember all the concepts properly) ✌
+## Theory Assignment:
+ - What is `NPM`?
+ - What is `Parcel/Webpack`? Why do we need it?
+ - What is `.parcel-cache`
+ - What is `npx` ?
+ - What is difference between `dependencies` vs `devDependencies`
+ - What is Tree Shaking?
+ - What is Hot Module Replacement?
+ - List down your favourite 5 superpowers of Parcel and describe any 3 of them in your
+own words.
+ - What is `.gitignore`? What should we add and not add into it?
+ - What is the difference between `package.json` and `package-lock.json`
+ - Why should I not modify `package-lock.json`?
+ - What is `node_modules` ? Is it a good idea to push that on git?
+ - What is the `dist` folder?
+ - What is `browserlists`
+ - Read about dif bundlers: vite, webpack, parcel
+- Read about: ^ - caret and ~ - tilda
+- Read about Script types in html (MDN Docs)
+## Project Assignment:
+- In your existing project
+ - intialize `npm` into your repo
+ - install `react` and `react-dom`
+ - remove CDN links of react
+ - install parcel
+ - ignite your app with parcel
+ - add scripts for “start” and “build” with parcel commands
+ - add `.gitignore` file
+ - add `browserlists`
+ - build a production version of your code using `parcel build`
+## References
+- Creating your own create-react-app
+- Parcel Documentation
+- Parcel on Production
+- BrowsersList: https://browserslist.dev/
