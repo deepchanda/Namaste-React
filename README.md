@@ -1,13 +1,37 @@
-# Namaste React Live Course
-## from Zero to Hero in 8 weeks
-- Course Start Date: 24th December 2022
-- Duration: 2 months
-- Classes Schedule: Saturday & Sunday
-- Class timings: from 11 AM IST
-- Class duration : ~2 hours core teaching + 1 hour Assignment Discussion
-# About the course
-The mission of this course is to take you from Zero to Hero in React. During this 2-month journey, you will learn everything in live classes and then implement it by building projects. You’ll learn how to start with React and build up to dynamic user interfaces. You’ll work with React-specific concepts like JSX, components, state, props, hooks, and more. Take this course to gain an edge as an industry ready web developer.
+## 03 - Assignment - Laying the Foundation  
+### Topics
+- JSX
+- React.createElement vs JSX
+- Benefits of JSX
+- Behind the Scenes of JSX
+- Babel & parcel role in JSX
+- Components
+- Functional Components
+  - Composing Components 
 
-The curriculum is designed with the principle of `learn by building`, so there will be a lot of Assignments/Projects you will work on. After this Bootcamp, you will be able to develop fast and scalable react frontend web applications from scratch.
- 
+### Assignment
+- What is JSX?
+- Superpowers of JSX
+- Role of attribute in script tag? What options can I use there?
+- `{TitleComponent}` VS `{<TitleComponent/>}` VS `{<TitleComponent></TitleComponent>}`
 
+### Coding Assignment:
+- Create a Nested header Element using React.createElement(h1,h2,h3 inside a div with class “title”)
+  - Create the same element using JSX
+  - Create a functional component of the same with JSX
+  - Pass attributes into the tag in JSX
+  - Composition of Component(Add a component inside another)
+  - `{TitleComponent}` VS `{<TitleComponent/>}` VS `{<TitleComponent></TitleComponent>}` in JSX
+- Create a Header Component from scratch using Functional Components with JSX
+  - Add a Logo on left
+  - Add a search bar in middle
+  - Add User icon on right
+  - Add CSS to make it look nice
+
+### References
+- Babel: https://babeljs.io/
+- Attribute Type: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/script#attr-type
+- JS Modules: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules
+- Babel Playground: href="https://babeljs.io/repl#
+- React without JSX: https://reactjs.org/docs/react-without-jsx.html
+	
